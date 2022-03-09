@@ -1,7 +1,13 @@
-# JS-Array-Methods for you to revise and memorize them.
+# Must have JS-Array-Methods To Remember
+
+
+-  Created for practise purpose only, 
+-  Feel free to add new methods to help others
+-  Share it with your dfriends and show your work 
+
+
+- Enjoy :)
 
 
 
-# Created for practise purpose only, 
 
-# Feel free to add new methods and share it with your developer friends who you care for. 
