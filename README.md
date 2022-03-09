@@ -1,4 +1,4 @@
-# Must have JS-Array-Methods To Remember
+# 20 Most COmmonly used JS-Array-Methods to Remember
 
 
 -  Created for practise purpose only, 
